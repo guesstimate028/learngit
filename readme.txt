@@ -1,1 +1,1 @@
-Git is a varsion control system
+Git is a  distributed varsion control system
